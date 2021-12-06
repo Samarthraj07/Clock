@@ -102,4 +102,6 @@ body {
         width: 300px;
         height: 300px;
     }
+    body{
+ overflow:hidden;
 }
